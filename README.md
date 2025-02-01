@@ -1,1 +1,1 @@
-daiky practice code python
+daily practice code python
